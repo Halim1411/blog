@@ -1,7 +1,8 @@
 ---
 title: KOTA
-subtitle: static/media/kota.webp
+subtitle: Tentang
 date: 2021-02-16T08:45:33.386Z
+summary: melanjutkan jurusan smk saya
 draft: false
 featured: false
 image:
@@ -9,4 +10,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-kota
+asal dari manokwari, ibu kota dari papua barat yang dimana pantai-panti disana sangat bagus

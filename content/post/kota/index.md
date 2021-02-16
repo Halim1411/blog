@@ -2,7 +2,7 @@
 title: KOTA
 subtitle: Tentang
 date: 2021-02-16T08:45:33.386Z
-summary: melanjutkan jurusan smk saya
+summary: ""
 draft: false
 featured: false
 image:
